@@ -1,8 +1,1 @@
 console.log('Hello World')
-console.log('Hello World2')
-console.log('Olá Mundo2')
-console.log('Olá Mundo3')
-console.log('Treinando no git')
-console.log('Testando no git no deepin')
-console.log('Testando no git no deepin2')
-console.log('Testando no git no deepin3')
